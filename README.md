@@ -23,11 +23,11 @@ function (currentColor){
 
 | Input | Output |
 | ----- | ------ |
-|   "green"	    |    "yellow"
-    | 
+|   "green"	    |    "yellow"| 
 |   "yellow"	    |       "red" | 
 |    "red"	   |     "green"   | 
 | "orange"	|     undefined     |
+
 
 <table>
   <tr>
